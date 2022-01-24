@@ -1,0 +1,6 @@
+
+
+******* otimizacao das classes.
+******* adição do protocolo e rotinas para tratar o protocolo no form de credenciais.
+******* melhora do console, incluido a data e horario da cada mensagem.
+******* opcao de teste de conexao com o servidor remoto.
